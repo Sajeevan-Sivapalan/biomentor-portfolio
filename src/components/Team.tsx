@@ -17,6 +17,12 @@ const team = [
     img: SanvithaImg,
   },
   {
+    name: "Karthiga Rajendran",
+    role: "Co-Supervisor",
+    email: "karthiga.r@sliit.lk",
+    img: KarthigaImg,
+  },
+  {
     name: "Gokul Abisheak",
     role: "Team Leader",
     email: "gokulabisheak12@gmail.com",
@@ -39,14 +45,7 @@ const team = [
     role: "Member",
     email: "sujithasrikanthan@gmail.com",
     img: SujithaImg,
-  },
-  
-  {
-    name: "Karthiga Rajendran",
-    role: "Co-Supervisor",
-    email: "karthiga.r@sliit.lk",
-    img: KarthigaImg,
-  },
+  }
   
 ];
 
